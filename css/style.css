@@ -1,0 +1,88 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+body{
+    background-color: brown;
+}
+
+.imagen img{
+    border-radius: 100px;
+    border: solid white;
+    box-shadow: 0 10px 5px 5px white;
+    filter: blur(25%);
+    float: left;
+    position: fixed;
+    
+}
+.cuadro1{
+    
+    background-color: rgba(255, 255, 255, 0.55);
+   
+    border: 5px;
+    border-radius: 10px;
+    border-style:solid;
+    border-color: white;
+    width: 700px;
+    height: auto; 
+    padding-bottom: 50px;
+    margin-left: 250px;
+}
+
+.tabla{
+    background-color: rgba(255, 255, 255, 0.598);
+    border: 5px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: white;
+    width: 1000px;
+    height: auto;
+    margin-left: 100px;
+}
+
+table{
+    border: solid;
+    border-color: white;
+    margin-left: auto;
+    
+    width: 950px;
+    height: auto;
+    margin-left: 25px;
+}
+th{
+    border: solid;
+    border-color: white;
+    background-color: white;
+}
+tr{
+    border: solid;
+    border-color: white;
+}
+td{
+    border: solid;
+    border-color: white;
+}
+h1{
+    text-align: center;
+}
+label{
+    margin-left: 25px;
+}
+.nombre{
+    width: 400px;
+    height: auto;    
+    margin-left: 25px;
+}
+.datos{
+    width: 300px;
+    height: auto;    
+    margin-left: 25px;
+}
+.boton{
+    background-color: black;
+    color: white;
+    margin-left: 25px;
+    width: 100px;
+    height: auto;
+}
